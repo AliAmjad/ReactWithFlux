@@ -5,7 +5,7 @@
       "title": "Securing React Apps with Auth0",
       "slug": "react-auth0-authentication-security",
       "authorId": 1,
-      "category": "JavaScript"
+      "category": "JavaScript Test"
     },
     {
       "id": 2,
@@ -60,14 +60,14 @@
       "id": 9,
       "title": "Becoming an Outlier: Reprogramming the Developer Mind",
       "slug": "career-reboot-for-developer-mind",
-      "authorId": 2,
+      "authorId": 1,
       "category": "Career"
     },
     {
       "id": 10,
       "title": "Web Component Fundamentals",
       "slug": "web-components-shadow-dom",
-      "authorId": 2,
+      "authorId": 1,
       "category": "HTML5"
     }
   ],
